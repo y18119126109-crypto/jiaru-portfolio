@@ -1,0 +1,62 @@
+export const site = {
+  name: 'Jiaru',
+  wordmark: 'JIARU',
+  title: '让热爱有回响',
+}
+
+export const sections = [
+  {
+    id: 'resume',
+    path: '/resume',
+    title: '个人简历',
+    navTitle: '关于我',
+    eyebrow: 'A LITTLE ABOUT ME',
+    description: '经历、思考，以及一路生长的轨迹。',
+    action: '认识一个真实的我',
+    preview: '把走过的路、做过的事，与一路积累的思考，慢慢整理成一个真实的我。',
+    tone: 'mint',
+    icon: 'person',
+    tags: ['个人经历', '能力与热爱'],
+  },
+  {
+    id: 'music',
+    path: '/music',
+    title: 'AI 音乐创作',
+    navTitle: '音乐创作',
+    eyebrow: 'SOUNDS OF IMAGINATION',
+    description: '当人类的情绪，遇见 AI 的想象力。',
+    action: '听见灵感的形状',
+    preview: '收集转瞬即逝的情绪，与 AI 一起把它们写成旋律。每一段声音，都是一次新的表达。',
+    tone: 'peach',
+    icon: 'music',
+    tags: ['原创旋律', '声音实验'],
+  },
+  {
+    id: 'products',
+    path: '/products',
+    title: 'AI 产品作品',
+    navTitle: '产品作品',
+    eyebrow: 'IDEAS MADE REAL',
+    description: '把一闪而过的想法，做成有用的日常。',
+    action: '看看想法如何落地',
+    preview: '从一个小小的好奇出发，探索人与 AI 相处的更多可能，让想法成为可以触摸的体验。',
+    tone: 'lilac',
+    icon: 'grid',
+    tags: ['产品探索', '交互体验'],
+  },
+  {
+    id: 'playlists',
+    path: '/playlists',
+    title: '个人精选歌单',
+    navTitle: '精选歌单',
+    eyebrow: 'A SOUNDTRACK FOR LIFE',
+    description: '为某个时刻，收藏刚刚好的声音。',
+    action: '找到此刻的背景音乐',
+    preview: '给清晨、雨天和深夜各留一段旋律。这里将收藏那些让我愿意一次次按下播放的声音。',
+    tone: 'sand',
+    icon: 'headphones',
+    tags: ['私藏声音', '情绪漫游'],
+  },
+] as const
+
+export type Section = (typeof sections)[number]

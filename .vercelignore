@@ -1,0 +1,11 @@
+.artifacts/
+.npm-cache/
+.wrangler/
+.edgeone/
+.git/
+.vercel/
+node_modules/
+dist/
+e2e/
+*.tsbuildinfo
+.DS_Store

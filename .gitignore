@@ -1,0 +1,23 @@
+node_modules/
+.npm-cache/
+dist/
+.DS_Store
+*.tsbuildinfo
+.env*
+!.env.example
+.artifacts/
+.dbg/
+debug-*.md
+test-results/
+playwright-report/
+.vercel-auth/
+.gh-auth/
+.wrangler/
+.vercel/
+
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+
+.vercel

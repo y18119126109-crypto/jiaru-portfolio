@@ -1,0 +1,284 @@
+.water-backdrop { position: fixed; inset: 0; z-index: -1; pointer-events: none; overflow: hidden; }
+.water-backdrop canvas { display: block; width: 100%; height: 100%; }
+.resume-page { padding: 0 16px; }
+.resume-breadcrumb { display: flex; align-items: center; gap: 13px; margin-top: 32px; font-size: 10px; color: #829486; }
+.resume-breadcrumb > span:nth-child(3) { color: #526e5f; }
+.resume-breadcrumb a:hover { color: #345e4e; }
+.resume-volume { margin-left: auto; display: flex; align-items: center; gap: 12px; font-size: 8px; letter-spacing: 1.8px; color: #8a9b8c; }
+.resume-volume i { height: 1px; width: 24px; background: #a1b5a167; }
+.resume-hero { display: grid; grid-template-columns: 1.35fr 1fr; align-items: center; min-height: 362px; padding: 33px 0 42px; }
+.resume-eyebrow { display: flex; align-items: center; gap: 10px; font-size: 11px; color: #728f7e; letter-spacing: 3px; }
+.resume-eyebrow .tiny-line { width: 18px; }
+.resume-intro h1 { display: flex; align-items: baseline; gap: 22px; margin: 17px 0 12px; font-size: 51px; font-weight: 500; letter-spacing: 4px; line-height: 1.4; }
+.resume-intro h1 > span { color: #86a18f; font-family: "Iowan Old Style", "Baskerville", serif; font-style: italic; font-size: 24px; font-weight: 400; letter-spacing: 0.4px; }
+.resume-statement { font-size: 17px; letter-spacing: 1.1px; font-weight: 450; color: #4f6d5f; }
+.resume-statement > span { color: #97b69f; }
+.resume-mobile-break { display: none; }
+.resume-direction { margin-top: 10px; color: #7a8c7c; font-size: 11px; letter-spacing: 0.5px; }
+.resume-contact { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 21px; margin-top: 24px; color: #637d6c; font-size: 11px; }
+.resume-contact a { display: inline-flex; align-items: center; gap: 8px; transition: color 180ms; }
+.resume-contact a:hover { color: #315c48; }
+.resume-contact svg { color: #8aa592; }
+.resume-actions { margin-top: 24px; }
+.resume-actions .primary-button, .resume-actions .secondary-button { min-height: 43px; padding-inline: 17px; font-size: 11px; }
+.file-label { font-size: 8px; padding-left: 12px; border-left: 1px solid #ffffff30; opacity: 0.7; letter-spacing: 1px; }
+
+/* A small translucent water sculpture sits above the same quiet, live surface. */
+.water-object { position: relative; height: 290px; width: 100%; max-width: 430px; justify-self: end; }
+.water-object-coordinate { position: absolute; top: 8px; right: 18px; font-size: 7px; letter-spacing: 2px; color: #98aa98; }
+.water-pool { position: absolute; left: 50%; top: 62%; width: 350px; height: 147px; transform: translate(-50%, -50%) rotate(-9deg); border-radius: 50%; background: radial-gradient(ellipse, #9ec7b42b, #c2d9bc13 53%, transparent 70%); }
+.water-pool > span { position: absolute; border-radius: 50%; border: 1px solid #8aa89629; box-shadow: 0 -1px 1px #ffffffcf, inset 0 2px 4px #8aa89610, 0 3px 4px #8aa89607; animation: pool-breathe 8s ease-in-out infinite; }
+.water-pool > span:nth-child(1) { inset: 0; border-color: #a7bc9d21; }
+.water-pool > span:nth-child(2) { inset: 13px 28px; animation-delay: -2s; }
+.water-pool > span:nth-child(3) { inset: 27px 57px; animation-delay: -4s; }
+.water-pool > span:nth-child(4) { inset: 42px 92px; animation-delay: -6s; }
+.water-pebble { position: absolute; width: 109px; height: 134px; left: calc(50% - 51px); top: 41px; border-radius: 70% 45% 62% 52%; transform: rotate(-29deg); border: 1px solid #ffffffb5; background: radial-gradient(ellipse at 72% 70%, #ebcbbc61, transparent 58%), radial-gradient(ellipse at 30% 20%, #ffffffbd, transparent 35%), linear-gradient(135deg, #b7d8c412, #b9d5c55c 38%, #f7f8e64f 58%, #7fae9947); box-shadow: inset 3px 2px 5px #ffffffe6, inset -7px -4px 9px #82b7a054, inset 8px -10px 11px #edf9e461, 9px 22px 20px -18px #447a6066, 0 25px 28px -15px #a2c2a359; backdrop-filter: blur(2px); -webkit-backdrop-filter: blur(2px); animation: pebble-float 9s ease-in-out infinite; }
+.water-pebble::after { content: ""; position: absolute; inset: 6px; border: 1px solid #ffffff4f; border-radius: inherit; }
+.pebble-highlight { position: absolute; left: 11px; top: 16px; width: 33px; height: 65px; border-left: 3px solid #ffffffe6; border-radius: 50%; transform: rotate(18deg); filter: blur(1px); }
+.pebble-core { position: absolute; width: 66px; height: 68px; left: 23px; bottom: 11px; border-radius: 50%; background: radial-gradient(ellipse, #b2d0ba57, #ffffff1a 60%, #80b99b42); box-shadow: inset -3px -5px 8px #f9f7d6b3; filter: blur(2px); }
+.water-object-caption { position: absolute; bottom: 0; width: 100%; text-align: center; transform: rotate(-3deg); }
+.water-object-caption > span { font-family: "Iowan Old Style", "Baskerville", serif; font-style: italic; font-size: 21px; letter-spacing: 0.5px; color: #82a08a; }
+.water-object-caption p { margin-top: 6px; font-size: 9px; color: #90a28c; letter-spacing: 2.5px; }
+.water-object-mark { position: absolute; right: 27px; bottom: 92px; font-size: 17px; font-weight: 300; color: #a5b8a0; }
+.water-is-paused .water-pebble, .water-is-paused .water-pool > span { animation-play-state: paused; }
+
+.resume-layout { display: grid; grid-template-columns: 190px minmax(0, 1fr); gap: 59px; margin-top: 17px; }
+.resume-sidebar { min-width: 0; }
+.resume-sidebar-sticky { position: sticky; top: 38px; padding-top: 10px; }
+.resume-nav-label { display: flex; justify-content: space-between; align-items: center; font-size: 10px; color: #7a8e7b; letter-spacing: 1px; padding: 0 10px 17px; border-bottom: 1px solid #a5b69e2b; }
+.resume-nav-label > span { font-size: 6px; letter-spacing: 1px; color: #9aa992; }
+.resume-chapters { display: flex; flex-direction: column; gap: 9px; padding-top: 17px; }
+.resume-chapters a { display: flex; align-items: center; gap: 14px; min-height: 47px; border: 1px solid transparent; border-radius: 11px; padding: 0 13px; font-size: 12px; color: #7b8d7a; transition: color 200ms, background 200ms; }
+.resume-chapters a:hover { color: #395f49; background: #deebe048; }
+.resume-chapters .is-current { color: #40654e; border-color: #ffffff99; background: linear-gradient(130deg, #dcebddbd, #e8efe087); box-shadow: inset 0 1px 0 #ffffffd6, 0 3px 7px #55725a04; }
+.chapter-nav-number { font-family: "Iowan Old Style", "Baskerville", serif; font-style: italic; font-size: 14px; color: #9cac92; }
+.resume-chapters a > svg { margin-left: auto; opacity: 0; transform: translateX(-4px); transition: opacity 200ms, transform 200ms; }
+.resume-chapters a.is-current > svg { opacity: 0.65; transform: none; }
+.resume-reading { margin: 26px 12px 0; color: #94a58e; font-size: 8px; letter-spacing: 0.5px; }
+.resume-reading > div:first-child { display: flex; justify-content: space-between; }
+.reading-track { height: 2px; margin-top: 10px; background: #b9c9af33; overflow: hidden; }
+.reading-track > span { display: block; height: 100%; background: #91b394; transition: width 200ms; }
+.water-controls { margin-top: 35px; padding: 16px 14px 12px; border-radius: 15px; background: linear-gradient(145deg, #ffffff9c, #eef3e949); }
+.water-control-title { display: flex; align-items: center; gap: 8px; color: #65856f; font-size: 11px; }
+.water-control-title svg { color: #8dad95; }
+.water-controls > p { margin-top: 9px; font-size: 9px; color: #7e947e; line-height: 1.7; }
+.water-control-buttons { display: flex; gap: 7px; margin-top: 12px; }
+.water-control-buttons button { display: flex; justify-content: center; align-items: center; gap: 7px; min-height: 36px; color: #728b71; border: 1px solid #ffffffa6; border-radius: 9px; background: #ffffff61; font-size: 10px; transition: background 180ms; }
+.water-control-buttons button:first-child { flex: 1; }
+.water-control-buttons button:last-child { width: 36px; }
+.water-control-buttons button:hover { background: #e0eedb; }
+.water-control-buttons button[aria-pressed="true"]:first-child { background: #dceada; color: #476e50; }
+.water-control-buttons button:disabled { opacity: 0.55; }
+.water-control-status { display: block; font-size: 8px; color: #8da186; margin-top: 10px; line-height: 1.6; }
+.resume-side-note { margin-top: 25px; padding-left: 14px; font-size: 10px; color: #a0ad94; letter-spacing: 1px; line-height: 2; }
+
+.resume-sections { min-width: 0; }
+.resume-section { margin-bottom: 42px; scroll-margin-top: 32px; }
+.resume-section:focus { outline: none; }
+.resume-section-heading { display: flex; align-items: center; justify-content: space-between; min-height: 42px; margin-bottom: 17px; }
+.chapter-number { font-family: "Iowan Old Style", "Baskerville", serif; font-style: italic; font-size: 22px; line-height: 1; color: #93b092; }
+.resume-section-heading h2 { font-size: 19px; font-weight: 500; letter-spacing: 1px; color: #3e5e4f; }
+.chapter-english { margin-left: 3px; font-size: 7px; letter-spacing: 1.4px; color: #8c9e85; }
+.chapter-count { font-size: 9px; letter-spacing: 1px; color: #8b9e83; }
+.education-card, .resume-entry, .resume-skills { border-radius: 20px; background: linear-gradient(125deg, #ffffffc9, #fbfcf8a1); box-shadow: inset 0 1px 1px #fff, 0 7px 22px #64826a04, 0 1px 3px #6a846e09; }
+.education-card { padding: 0 28px; }
+.education-entry { display: flex; gap: 20px; padding: 28px 0; }
+.education-entry + .education-entry { border-top: 1px solid #a1b69a2e; }
+.education-seal { display: grid; flex-shrink: 0; place-items: center; width: 48px; height: 52px; border: 1px solid #ffffffd9; border-radius: 13px; color: #8fac8a; background: linear-gradient(135deg, #edf3e9, #dceadf54); box-shadow: inset 0 1px 1px #fff, 0 2px 4px #8ca7890a; }
+.seal-1 { color: #b3a28a; background: linear-gradient(135deg, #f6f1e7, #f1e9df6e); }
+.education-main { flex: 1; min-width: 0; }
+.education-topline, .entry-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 15px; }
+.education-topline h3, .entry-title h3 { font-size: 16px; font-weight: 550; color: #3b5a4b; letter-spacing: 0.25px; line-height: 1.65; }
+.school-english { font-size: 9px; color: #91a089; letter-spacing: 0.35px; margin-top: 3px; }
+.resume-date { flex-shrink: 0; font-size: 9px; line-height: 2.5; letter-spacing: 0.6px; color: #82967d; font-variant-numeric: tabular-nums; }
+.education-degree { display: flex; flex-wrap: wrap; gap: 13px; align-items: center; margin-top: 16px; font-size: 11px; color: #637a60; }
+.education-badge { padding: 3px 8px; border: 1px solid #b9ceb041; border-radius: 5px; color: #7b9672; background: #e4eedd40; font-size: 8px; letter-spacing: 0.3px; }
+.education-courses { display: flex; align-items: baseline; gap: 12px; margin-top: 13px; line-height: 1.95; }
+.education-courses > span { flex-shrink: 0; color: #8c9c83; font-size: 10px; }
+.education-courses p { color: #6d7f66; font-size: 12px; }
+.resume-entry-list { display: flex; flex-direction: column; gap: 17px; }
+.resume-entry { padding: 27px 29px 22px; transition: border-color 200ms, box-shadow 250ms; }
+.resume-entry:hover { border-color: #c7dbc184; box-shadow: inset 0 1px 1px #fff, 0 9px 25px #64826a09; }
+.entry-title { display: flex; gap: 12px; }
+.entry-index { display: grid; place-items: center; flex-shrink: 0; width: 27px; height: 27px; margin-top: 1px; border: 1px solid #adc4a02b; border-radius: 8px; color: #91aa84; background: #eaf1e347; font-size: 9px; }
+.entry-title h3 { font-size: 15px; }
+.entry-role { margin-top: 6px; font-size: 11px; color: #87997d; }
+.entry-details { margin: 24px 0 0; }
+.entry-details > div + div { margin-top: 16px; }
+.entry-details dt { display: flex; align-items: center; gap: 7px; margin-bottom: 5px; font-size: 11px; color: #54744f; font-weight: 550; }
+.entry-details dt::before { content: ""; width: 3px; height: 3px; background: #a8bda0; border-radius: 50%; }
+.entry-details dd { font-size: 13px; color: #60715a; line-height: 2; letter-spacing: 0.2px; }
+.entry-highlights { display: flex; flex-wrap: wrap; gap: 16px 35px; margin-top: 22px; padding: 17px 0; border-top: 1px solid #a9be9b26; border-bottom: 1px solid #a9be9b26; }
+.entry-highlights > :is(div, a) { display: flex; align-items: baseline; gap: 8px; }
+.entry-highlights strong { font-family: "Avenir Next", "PingFang SC", sans-serif; color: #83a178; font-size: 22px; font-weight: 450; letter-spacing: -0.5px; line-height: 1.3; }
+.entry-highlights span { font-size: 9px; color: #87977b; }
+.entry-highlight-link { border-radius: 7px; }
+.entry-highlight-link svg { align-self: center; margin-left: 2px; color: #8da482; opacity: 0.55; transition: transform 180ms, opacity 180ms; }
+.entry-highlight-link:hover svg { transform: translateX(3px); opacity: 1; }
+.entry-highlight-link:focus-visible { outline: 2px solid #86a97c; outline-offset: 5px; }
+.resume-tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 15px; }
+.resume-tags > span { padding: 4px 8px; border-radius: 5px; font-size: 9px; color: #8c9a7d; background: #dfe8d431; }
+.resume-entry-action { display: inline-flex; align-items: center; gap: 10px; margin-top: 17px; color: #5f7d58; font-size: 10px; letter-spacing: 0.35px; text-underline-offset: 5px; }
+.resume-entry-action svg { transition: transform 180ms; }
+.resume-entry-action:hover { text-decoration: underline; }
+.resume-entry-action:hover svg { transform: translateX(3px); }
+.resume-entry-action:focus-visible { outline: 2px solid #86a97c; outline-offset: 5px; border-radius: 3px; }
+#projects .resume-entry:nth-child(2) .entry-index { color: #b09a88; background: #f1e6dc47; border-color: #dec7ae40; }
+#projects .resume-entry:nth-child(3) .entry-index { color: #a39bb5; background: #eae6f14a; border-color: #c3b7d734; }
+.resume-skills { padding: 27px 29px; }
+.skill-grid { display: grid; grid-template-columns: 1.15fr 1.3fr 0.75fr; gap: 27px; }
+.skill-icon { display: block; color: #8da482; margin-bottom: 13px; }
+.skill-block h3 { margin-bottom: 10px; font-size: 13px; color: #56734e; font-weight: 550; }
+.skill-block p { font-size: 12px; line-height: 2.05; color: #68785c; }
+.skill-block p + p { margin-top: 5px; }
+.resume-tools { display: flex; align-items: flex-start; gap: 28px; border-top: 1px solid #a6bd9329; margin-top: 27px; padding-top: 22px; }
+.resume-tools > span { padding-top: 3px; flex-shrink: 0; color: #80956e; font-size: 10px; }
+.resume-tools > span > span { display: block; margin-top: 5px; font-size: 6px; color: #9aa98a; letter-spacing: 1px; }
+.resume-tools > div { display: flex; flex-wrap: wrap; gap: 8px; }
+.resume-tools > div > span { display: inline-flex; align-items: center; padding: 7px 12px; border: 1px solid #bfcfa74f; border-radius: 7px; font-size: 10px; color: #788a65; background: #f6f8ef79; }
+.resume-end { display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: -2px; padding: 0 0 27px; color: #8b9c7d; font-size: 10px; letter-spacing: 1px; }
+.resume-end > i { width: 34px; height: 1px; background: #acbc9a57; }
+.resume-end > a { display: flex; align-items: center; gap: 11px; color: #5e7d51; }
+.resume-end > a:hover { text-decoration: underline; text-underline-offset: 5px; }
+
+@keyframes pebble-float { 0%, 100% { transform: translateY(0) rotate(-29deg); } 50% { transform: translateY(-7px) rotate(-25deg); } }
+@keyframes pool-breathe { 0%, 100% { opacity: 0.55; transform: scale(0.97); } 50% { opacity: 1; transform: scale(1.025); } }
+
+@media (min-width: 1600px) {
+  .resume-hero { min-height: 400px; }
+  .resume-layout { grid-template-columns: 208px minmax(0, 1fr); gap: 68px; }
+  .entry-details dd { font-size: 13px; }
+  .education-courses p, .skill-block p { font-size: 12px; }
+}
+@media (max-width: 1200px) {
+  .resume-page { padding-inline: 6px; }
+  .resume-layout { gap: 35px; grid-template-columns: 177px minmax(0, 1fr); }
+  .education-card { padding-inline: 23px; }
+  .education-entry { gap: 14px; }
+  .education-topline, .entry-heading { flex-wrap: wrap; gap: 6px; }
+  .entry-heading > .resume-date { margin-left: 39px; }
+  .education-topline > .resume-date { line-height: 1.8; }
+  .education-seal { width: 42px; height: 47px; }
+  .resume-entry { padding: 23px; }
+  .entry-highlights { gap: 15px 22px; }
+  .entry-highlights > div { gap: 6px; }
+  .skill-grid { grid-template-columns: 1fr 1fr; gap: 24px; }
+  .skill-block:last-child { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 20px; }
+  .skill-block:last-child .skill-icon, .skill-block:last-child h3, .skill-block:last-child p { margin: 0; }
+  .water-object { transform: scale(0.92); transform-origin: center right; }
+}
+@media (max-width: 900px) {
+  .resume-intro h1 { gap: 15px; font-size: 44px; }
+  .resume-intro h1 > span { font-size: 21px; }
+  .resume-statement { font-size: 15px; letter-spacing: 0.25px; }
+  .resume-contact { font-size: 10px; gap: 12px; }
+  .water-object { transform: scale(0.78); width: 300px; margin-left: -25px; }
+  .resume-hero { grid-template-columns: 1.5fr 1fr; }
+  .resume-layout { grid-template-columns: 156px minmax(0, 1fr); gap: 24px; }
+  .resume-chapters a { gap: 11px; padding-inline: 10px; }
+  .resume-nav-label { font-size: 9px; padding-inline: 6px; }
+  .water-controls { padding-inline: 10px; }
+  .water-control-title { font-size: 10px; }
+  .water-controls > p { font-size: 8px; }
+  .chapter-count { display: none; }
+  .education-seal { display: none; }
+  .education-courses { display: block; }
+  .education-courses p { margin-top: 4px; }
+  .entry-details dd { font-size: 12px; }
+  .resume-skills { padding: 24px; }
+  .skill-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 767px) {
+  .resume-page { padding-inline: 2px; }
+  .resume-breadcrumb { margin-top: 25px; font-size: 10px; }
+  .resume-volume { font-size: 6px; letter-spacing: 1px; gap: 8px; }
+  .resume-volume i { width: 15px; }
+  .resume-hero { position: relative; display: block; min-height: 0; padding: 35px 0 30px; }
+  .resume-intro { position: relative; z-index: 1; }
+  .resume-eyebrow { font-size: 10px; letter-spacing: 2px; }
+  .resume-intro h1 { display: block; font-size: 42px; letter-spacing: 3px; margin-top: 15px; margin-bottom: 19px; }
+  .resume-intro h1 > span { display: block; font-size: 21px; margin-top: 2px; }
+  .resume-statement { font-size: 15px; letter-spacing: 0.35px; line-height: 1.9; }
+  .resume-direction { font-size: 10px; margin-top: 7px; letter-spacing: 0; }
+  .resume-contact { gap: 12px 17px; margin-top: 20px; font-size: 11px; }
+  .resume-contact a { min-height: 26px; }
+  .resume-actions { gap: 9px; margin-top: 20px; }
+  .resume-actions .primary-button, .resume-actions .secondary-button { min-height: 45px; padding-inline: 13px; font-size: 10px; gap: 10px; }
+  .file-label { padding-left: 8px; font-size: 7px; }
+  .water-object { position: absolute; top: 4px; right: -8px; width: 230px; height: 210px; transform: scale(0.7); transform-origin: top right; pointer-events: none; }
+  .water-object-coordinate, .water-object-caption, .water-object-mark { display: none; }
+  .water-pool { width: 240px; height: 110px; top: 83%; }
+  .water-pebble { top: 35px; }
+  .resume-layout { display: block; margin-top: 6px; }
+  .resume-sidebar { position: sticky; top: 8px; z-index: 20; margin: 0 -3px 30px; border: 1px solid #ffffffd9; border-radius: 16px; background: #f3f7eced; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); box-shadow: 0 6px 17px #4b6e4310; }
+  .resume-sidebar-sticky { position: static; padding: 0; }
+  .resume-nav-label, .resume-reading, .resume-side-note { display: none; }
+  .resume-chapters { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2px; padding: 6px; }
+  .resume-chapters a { justify-content: center; gap: 6px; padding: 0 4px; min-height: 40px; font-size: 11px; border-radius: 10px; white-space: nowrap; }
+  .chapter-nav-number { font-size: 11px; }
+  .resume-chapters a > svg { display: none; }
+  .water-controls { display: flex; align-items: center; gap: 5px; margin: 0; padding: 2px 11px 7px; border: 0; border-radius: 0; background: none; box-shadow: none; backdrop-filter: none; -webkit-backdrop-filter: none; }
+  .water-control-title { font-size: 9px; gap: 5px; color: #83967b; }
+  .water-control-title svg { width: 13px; }
+  .water-controls > p, .water-control-status { display: none; }
+  .water-control-buttons { margin: 0 0 0 auto; gap: 4px; }
+  .water-control-buttons button { min-height: 34px; background: transparent; border: 0; font-size: 9px; }
+  .water-control-buttons button:first-child { padding-inline: 8px; }
+  .water-control-buttons button:last-child { width: 34px; }
+  .resume-section { margin-bottom: 30px; scroll-margin-top: 118px; }
+  .resume-section-heading { min-height: 30px; margin-bottom: 14px; }
+  .resume-section-heading > div { gap: 9px; }
+  .resume-section-heading h2 { font-size: 18px; }
+  .chapter-number { font-size: 21px; }
+  .chapter-english { font-size: 6px; letter-spacing: 1px; }
+  .education-card { padding-inline: 19px; border-radius: 17px; }
+  .education-entry { padding: 23px 0; }
+  .education-topline { display: block; }
+  .education-topline h3 { font-size: 15px; }
+  .school-english { font-size: 8px; }
+  .resume-date { font-size: 9px; line-height: 1.6; }
+  .education-topline .resume-date { display: block; margin-top: 10px; }
+  .education-degree { margin-top: 13px; }
+  .education-courses { margin-top: 12px; }
+  .education-courses p { font-size: 12px; line-height: 1.9; }
+  .resume-entry { padding: 22px 19px 18px; border-radius: 17px; }
+  .entry-title { gap: 9px; }
+  .entry-title h3 { font-size: 15px; line-height: 1.7; }
+  .entry-index { width: 23px; height: 24px; border-radius: 6px; font-size: 8px; }
+  .entry-role { font-size: 10px; line-height: 1.8; }
+  .entry-heading > .resume-date { margin-left: 32px; margin-top: 3px; }
+  .entry-details { margin-top: 21px; }
+  .entry-details dt { font-size: 11px; margin-bottom: 7px; }
+  .entry-details dd { font-size: 13px; line-height: 1.95; letter-spacing: 0.1px; }
+  .entry-details > div + div { margin-top: 17px; }
+  .entry-highlights { gap: 15px 24px; margin-top: 20px; padding-block: 15px; }
+  .entry-highlights strong { font-size: 21px; }
+  .entry-highlights span { font-size: 9px; }
+  .resume-tags { margin-top: 13px; }
+  .resume-tags > span { font-size: 9px; }
+  .resume-skills { padding: 23px 19px; border-radius: 17px; }
+  .skill-grid { gap: 25px; }
+  .skill-icon { margin-bottom: 10px; }
+  .skill-block h3 { font-size: 13px; }
+  .skill-block p { font-size: 12px; line-height: 1.95; }
+  .skill-block:last-child { display: block; }
+  .skill-block:last-child .skill-icon, .skill-block:last-child h3 { margin-bottom: 10px; }
+  .skill-block:last-child p + p { margin-top: 4px; }
+  .resume-tools { gap: 17px; margin-top: 24px; }
+  .resume-tools > div { gap: 6px; }
+  .resume-tools > div > span { padding: 6px 9px; font-size: 9px; }
+  .resume-end { font-size: 9px; gap: 12px; padding-bottom: 0; }
+}
+@media (max-width: 370px) {
+  .resume-volume { letter-spacing: 0; }
+  .resume-intro h1 { font-size: 38px; }
+  .resume-statement { font-size: 14px; }
+  .water-object { right: 0; transform: scale(0.6); }
+  .resume-chapters a { font-size: 10px; gap: 4px; }
+  .water-control-title { font-size: 8px; }
+  .entry-highlights { gap: 13px 19px; }
+  .entry-highlights > div { gap: 6px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .water-pebble, .water-pool > span { animation: none; }
+}

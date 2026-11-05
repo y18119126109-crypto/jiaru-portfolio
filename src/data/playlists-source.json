@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "netease-kpop",
+    "platform": "netease",
+    "platformId": "17983347132",
+    "title": "Kpop感性时刻|耳机里的情绪出口",
+    "description": "“不是所有Kpop都是洗脑神曲，有些歌，适合深夜一个人听。”",
+    "url": "https://music.163.com/playlist?id=17983347132",
+    "count": 14,
+    "duration": 2982,
+    "verifiedAt": "2026-09-24",
+    "tracks": [
+      {
+        "id": "28613217",
+        "title": "눈, 코, 입",
+        "artists": [
+          "TAEYANG"
+        ],
+        "album": "RISE",
+        "duration": 230,
+        "url": "https://music.163.com/song?id=28613217",
+        "aliases": [
+          "眼,鼻,嘴"
+        ]
+      },
+      {
+        "id": "1827038717",
+        "title": "Gone",
+        "artists": [
+          "ROSÉ"
+        ],
+        "album": "R",
+        "duration": 207,
+        "url": "https://music.163.com/song?id=1827038717",
+        "aliases": []
+      },
+      {
+        "id": "35090760",
+        "title": "I (feat. Verbal Jint)",
+        "artists": [
+          "太妍",
+          "Verbal Jint"
+        ],
+        "album": "I - The 1st Mini Album",
+        "duration": 206,
+        "url": "https://music.163.com/song?id=35090760",
+        "aliases": []
+      },
+      {
+        "id": "27506041",
+        "title": "Falling U",
+        "artists": [
+          "T-ara"
+        ],
+        "album": "Breaking Heart (Repackage)",
+        "duration": 210,
+        "url": "https://music.163.com/song?id=27506041",
+        "aliases": []
+      },
+      {
+        "id": "1906911368",
+        "title": "Sweet Dreams",
+        "artists": [
+          "TOMORROW X TOGETHER"
+        ],
+        "album": "",
+        "duration": 200,
+        "url": "https://music.163.com/song?id=1906911368",
+        "aliases": []
+      },
+      {
+        "id": "2146756373",
+        "title": "Deja Vu (Live)",
+        "artists": [
+          "TOMORROW X TOGETHER"
+        ],
+        "album": "쿨룩 LIVE",
+        "duration": 178,
+        "url": "https://music.163.com/song?id=2146756373",
+        "aliases": []
+      },
+      {
+        "id": "1436264336",
+        "title": "舞い落ちる花びら（Fallin' Flower）",
+        "artists": [
+          "SEVENTEEN"
+        ],
+        "album": "舞い落ちる花びら (Fallin' Flower)",
+        "duration": 211,
+        "url": "https://music.163.com/song?id=1436264336",
+        "aliases": [
+          "舞落的花瓣"
+        ]
+      },
+      {
+        "id": "526081121",
+        "title": "顺其自然 (Been Through)",
+        "artists": [
+          "EXO"
+        ],
+        "album": "Universe – Winter Special Album, 2017",
+        "duration": 218,
+        "url": "https://music.163.com/song?id=526081121",
+        "aliases": []
+      },
+      {
+        "id": "406716678",
+        "title": "Butterfly (Japanese Ver.)",
+        "artists": [
+          "BTS (防弹少年团)"
+        ],
+        "album": "RUN (Japanese Ver./通常盤)",
+        "duration": 242,
+        "url": "https://music.163.com/song?id=406716678",
+        "aliases": [
+          "Butterfly Japanese Ver."
+        ]
+      },
+      {
+        "id": "2626124904",
+        "title": "Spring Day (Live)",
+        "artists": [
+          "BTS (防弹少年团)"
+        ],
+        "album": "",
+        "duration": 273,
+        "url": "https://music.163.com/song?id=2626124904",
+        "aliases": [
+          "春日"
+        ]
+      },
+      {
+        "id": "2037930596",
+        "title": "Shine With Me",
+        "artists": [
+          "IVE"
+        ],
+        "album": "I've IVE",
+        "duration": 225,
+        "url": "https://music.163.com/song?id=2037930596",
+        "aliases": []
+      },
+      {
+        "id": "2044791125",
+        "title": "Welcome To MY World (Feat. nævis)",
+        "artists": [
+          "aespa",
+          "nævis"
+        ],
+        "album": "Welcome To MY World (Feat. nævis)",
+        "duration": 207,
+        "url": "https://music.163.com/song?id=2044791125",
+        "aliases": []
+      },
+      {
+        "id": "2678558276",
+        "title": "Hurt (KyoU Remix)",
+        "artists": [
+          "NewJeans"
+        ],
+        "album": "",
+        "duration": 178,
+        "url": "https://music.163.com/song?id=2678558276",
+        "aliases": []
+      },
+      {
+        "id": "2676664123",
+        "title": "Ditto (Areia Remix)",
+        "artists": [
+          "NewJeans"
+        ],
+        "album": "",
+        "duration": 197,
+        "url": "https://music.163.com/song?id=2676664123",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "netease-cpop",
+    "platform": "netease",
+    "platformId": "17983626111",
+    "title": "华语流行|那些刻进DNA里的旋律",
+    "description": "周杰伦、孙燕姿、蔡依林、林俊杰……有些歌，前奏一响就是整个青春。",
+    "url": "https://music.163.com/playlist?id=17983626111",
+    "count": 37,
+    "duration": 9944,
+    "verifiedAt": "2026-09-24",
+    "tracks": [
+      {
+        "id": "3327859062",
+        "title": "兜圈 (live)",
+        "artists": [
+          "林宥嘉"
+        ],
+        "album": "声生不息·华流季 第4期",
+        "duration": 248,
+        "url": "https://music.163.com/song?id=3327859062",
+        "aliases": []
+      },
+      {
+        "id": "3343236872",
+        "title": "小幸运",
+        "artists": [
+          "田馥甄的小迷妹"
+        ],
+        "album": "小幸运",
+        "duration": 264,
+        "url": "https://music.163.com/song?id=3343236872",
+        "aliases": [
+          "原来你是我最想留住的幸运"
+        ]
+      },
+      {
+        "id": "441491828",
+        "title": "水星记",
+        "artists": [
+          "郭顶"
+        ],
+        "album": "飞行器的执行周期",
+        "duration": 325,
+        "url": "https://music.163.com/song?id=441491828",
+        "aliases": []
+      },
+      {
+        "id": "254574",
+        "title": "后来",
+        "artists": [
+          "刘若英"
+        ],
+        "album": "我等你",
+        "duration": 341,
+        "url": "https://music.163.com/song?id=254574",
+        "aliases": [
+          "原曲《未来へ》"
+        ]
+      },
+      {
+        "id": "1984475097",
+        "title": "就让这大雨全都落下",
+        "artists": [
+          "容祖儿"
+        ],
+        "album": "联名",
+        "duration": 254,
+        "url": "https://music.163.com/song?id=1984475097",
+        "aliases": [
+          "汪苏泷概念创作集《联名》作品"
+        ]
+      },
+      {
+        "id": "1952182912",
+        "title": "爱你",
+        "artists": [
+          "王心凌"
+        ],
+        "album": "青春纪念册",
+        "duration": 220,
+        "url": "https://music.163.com/song?id=1952182912",
+        "aliases": []
+      },
+      {
+        "id": "1842025914",
+        "title": "这世界那么多人",
+        "artists": [
+          "莫文蔚"
+        ],
+        "album": "这世界那么多人",
+        "duration": 286,
+        "url": "https://music.163.com/song?id=1842025914",
+        "aliases": [
+          "电影《我要我们在一起》主题曲"
+        ]
+      },
+      {
+        "id": "1479507262",
+        "title": "永不失联的爱 (Live)",
+        "artists": [
+          "单依纯"
+        ],
+        "album": "2020中国好声音 第3期",
+        "duration": 264,
+        "url": "https://music.163.com/song?id=1479507262",
+        "aliases": []
+      },
+      {
+        "id": "327115",
+        "title": "隐形的翅膀",
+        "artists": [
+          "张韶涵"
+        ],
+        "album": "潘朵拉",
+        "duration": 224,
+        "url": "https://music.163.com/song?id=327115",
+        "aliases": [
+          "电视剧《爱杀17》片尾曲"
+        ]
+      },
+      {
+        "id": "306662",
+        "title": "失落沙洲",
+        "artists": [
+          "徐佳莹"
+        ],
+        "album": "LaLa首张创作专辑",
+        "duration": 299,
+        "url": "https://music.163.com/song?id=306662",
+        "aliases": []
+      },
+      {
+        "id": "467952048",
+        "title": "男孩 (Live)",
+        "artists": [
+          "梁博"
+        ],
+        "album": "歌手 第10期",
+        "duration": 312,
+        "url": "https://music.163.com/song?id=467952048",
+        "aliases": []
+      },
+      {
+        "id": "436514312",
+        "title": "成都",
+        "artists": [
+          "赵雷"
+        ],
+        "album": "成都",
+        "duration": 328,
+        "url": "https://music.163.com/song?id=436514312",
+        "aliases": []
+      },
+      {
+        "id": "205342",
+        "title": "给我一个理由忘记",
+        "artists": [
+          "黄丽玲"
+        ],
+        "album": "寂寞不痛",
+        "duration": 286,
+        "url": "https://music.163.com/song?id=205342",
+        "aliases": []
+      },
+      {
+        "id": "421423806",
+        "title": "小半",
+        "artists": [
+          "陈粒"
+        ],
+        "album": "小梦大半",
+        "duration": 297,
+        "url": "https://music.163.com/song?id=421423806",
+        "aliases": []
+      },
+      {
+        "id": "316100",
+        "title": "雨爱",
+        "artists": [
+          "杨丞琳"
+        ],
+        "album": "雨爱",
+        "duration": 260,
+        "url": "https://music.163.com/song?id=316100",
+        "aliases": [
+          "电视剧《海派甜心》片尾曲"
+        ]
+      },
+      {
+        "id": "32619064",
+        "title": "年轮",
+        "artists": [
+          "张碧晨"
+        ],
+        "album": "花千骨 电视原声带",
+        "duration": 275,
+        "url": "https://music.163.com/song?id=32619064",
+        "aliases": [
+          "电视剧《花千骨》插曲"
+        ]
+      },
+      {
+        "id": "208891",
+        "title": "Letting Go",
+        "artists": [
+          "蔡健雅"
+        ],
+        "album": "说到爱",
+        "duration": 263,
+        "url": "https://music.163.com/song?id=208891",
+        "aliases": []
+      },
+      {
+        "id": "1903149553",
+        "title": "无名的人",
+        "artists": [
+          "毛不易"
+        ],
+        "album": "无名的人",
+        "duration": 282,
+        "url": "https://music.163.com/song?id=1903149553",
+        "aliases": [
+          "电影《雄狮少年》主题曲"
+        ]
+      },
+      {
+        "id": "254059",
+        "title": "情歌",
+        "artists": [
+          "梁静茹"
+        ],
+        "album": "现在开始我爱你",
+        "duration": 263,
+        "url": "https://music.163.com/song?id=254059",
+        "aliases": []
+      },
+      {
+        "id": "385781",
+        "title": "突然好想你",
+        "artists": [
+          "五月天"
+        ],
+        "album": "后青春期的诗",
+        "duration": 266,
+        "url": "https://music.163.com/song?id=385781",
+        "aliases": []
+      },
+      {
+        "id": "28403111",
+        "title": "特别的人",
+        "artists": [
+          "方大同"
+        ],
+        "album": "危险世界",
+        "duration": 259,
+        "url": "https://music.163.com/song?id=28403111",
+        "aliases": [
+          "Special Person"
+        ]
+      },
+      {
+        "id": "28059417",
+        "title": "他不懂",
+        "artists": [
+          "张杰"
+        ],
+        "album": "爱，不解释",
+        "duration": 232,
+        "url": "https://music.163.com/song?id=28059417",
+        "aliases": []
+      },
+      {
+        "id": "150623",
+        "title": "普通朋友",
+        "artists": [
+          "陶喆"
+        ],
+        "album": "I'm OK",
+        "duration": 255,
+        "url": "https://music.163.com/song?id=150623",
+        "aliases": [
+          "Regular Friends"
+        ]
+      },
+      {
+        "id": "516823132",
+        "title": "大鱼 (唱片版)",
+        "artists": [
+          "周深"
+        ],
+        "album": "深的深",
+        "duration": 318,
+        "url": "https://music.163.com/song?id=516823132",
+        "aliases": []
+      },
+      {
+        "id": "30612793",
+        "title": "多远都要在一起",
+        "artists": [
+          "G.E.M.邓紫棋"
+        ],
+        "album": "新的心跳",
+        "duration": 217,
+        "url": "https://music.163.com/song?id=30612793",
+        "aliases": []
+      },
+      {
+        "id": "27483167",
+        "title": "唯一",
+        "artists": [
+          "王力宏"
+        ],
+        "album": "唯一",
+        "duration": 262,
+        "url": "https://music.163.com/song?id=27483167",
+        "aliases": [
+          "The One And Only"
+        ]
+      },
+      {
+        "id": "32507038",
+        "title": "演员",
+        "artists": [
+          "薛之谦"
+        ],
+        "album": "绅士",
+        "duration": 261,
+        "url": "https://music.163.com/song?id=32507038",
+        "aliases": []
+      },
+      {
+        "id": "426852063",
+        "title": "一笑倾城",
+        "artists": [
+          "汪苏泷"
+        ],
+        "album": "微微一笑很倾城 电视原声带",
+        "duration": 232,
+        "url": "https://music.163.com/song?id=426852063",
+        "aliases": [
+          "电视剧《微微一笑很倾城》片头曲"
+        ]
+      },
+      {
+        "id": "2712620397",
+        "title": "用背脊唱情歌",
+        "artists": [
+          "Gareth.T"
+        ],
+        "album": "用背脊唱情歌",
+        "duration": 210,
+        "url": "https://music.163.com/song?id=2712620397",
+        "aliases": []
+      },
+      {
+        "id": "1293886117",
+        "title": "年少有为",
+        "artists": [
+          "李荣浩"
+        ],
+        "album": "耳朵",
+        "duration": 279,
+        "url": "https://music.163.com/song?id=1293886117",
+        "aliases": []
+      },
+      {
+        "id": "1360512113",
+        "title": "记得",
+        "artists": [
+          "张惠妹"
+        ],
+        "album": "真实",
+        "duration": 286,
+        "url": "https://music.163.com/song?id=1360512113",
+        "aliases": []
+      },
+      {
+        "id": "65766",
+        "title": "富士山下",
+        "artists": [
+          "陈奕迅"
+        ],
+        "album": "What's Going On…?",
+        "duration": 259,
+        "url": "https://music.163.com/song?id=65766",
+        "aliases": []
+      },
+      {
+        "id": "299936",
+        "title": "红豆",
+        "artists": [
+          "王菲"
+        ],
+        "album": "唱游",
+        "duration": 256,
+        "url": "https://music.163.com/song?id=299936",
+        "aliases": []
+      },
+      {
+        "id": "108914",
+        "title": "江南",
+        "artists": [
+          "林俊杰"
+        ],
+        "album": "第二天堂",
+        "duration": 268,
+        "url": "https://music.163.com/song?id=108914",
+        "aliases": [
+          "River South"
+        ]
+      },
+      {
+        "id": "4876202",
+        "title": "倒带",
+        "artists": [
+          "蔡依林"
+        ],
+        "album": "求婚事务所 电视原声带",
+        "duration": 266,
+        "url": "https://music.163.com/song?id=4876202",
+        "aliases": [
+          "电视剧《求婚事务所》最热插曲"
+        ]
+      },
+      {
+        "id": "454828887",
+        "title": "遇见",
+        "artists": [
+          "孙燕姿"
+        ],
+        "album": "白羽毛之恋 华语典藏情歌 Vol.2",
+        "duration": 210,
+        "url": "https://music.163.com/song?id=454828887",
+        "aliases": [
+          "电影《向左走向右走》主题曲"
+        ]
+      },
+      {
+        "id": "2712018330",
+        "title": "七里香",
+        "artists": [
+          "Xai小爱"
+        ],
+        "album": "七里香",
+        "duration": 317,
+        "url": "https://music.163.com/song?id=2712018330",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "netease-classical",
+    "platform": "netease",
+    "platformId": "17983561617",
+    "title": "留学时听的古典乐|在谢菲尔德写论文的日子",
+    "description": "“德彪西、巴赫、马勒……这些曲子陪我度过无数个图书馆夜晚。”",
+    "url": "https://music.163.com/playlist?id=17983561617",
+    "count": 21,
+    "duration": 10158,
+    "verifiedAt": "2026-09-24",
+    "tracks": [
+      {
+        "id": "1458676",
+        "title": "Symphony No. 7 in A, Op. 92:II. Allegretto",
+        "artists": [
+          "Herbert von Karajan",
+          "Berliner Philharmoniker"
+        ],
+        "album": "Beethoven: The 9 Symphonies",
+        "duration": 483,
+        "url": "https://music.163.com/song?id=1458676",
+        "aliases": [
+          "A大调第7号交响曲, 作品92:第二乐章.小快板"
+        ]
+      },
+      {
+        "id": "1458719",
+        "title": "Symphony No. 9 in D Minor, Op. 125 - \"Choral\":III. Adagio molto e cantabile",
+        "artists": [
+          "Herbert von Karajan",
+          "Berliner Philharmoniker"
+        ],
+        "album": "Beethoven: The 9 Symphonies",
+        "duration": 988,
+        "url": "https://music.163.com/song?id=1458719",
+        "aliases": [
+          "d小调第9号交响曲，作品 125 - 第3乐章 如歌的柔板“合唱”"
+        ]
+      },
+      {
+        "id": "33638484",
+        "title": "Symphony No.9 in E minor, Op.95 \"From the New World\": II.Largo",
+        "artists": [
+          "Herbert von Karajan",
+          "Berliner Philharmoniker"
+        ],
+        "album": "Karajan - Complete Recordings on Deutsche Grammophon (Vol. 2.5 1959-1965)",
+        "duration": 791,
+        "url": "https://music.163.com/song?id=33638484",
+        "aliases": [
+          "德沃夏克: e小调第九交响曲《自新大陆》·第二乐章",
+          "e小调第9号交响曲，作品 95 - 第2乐章 广板“自新大陆”"
+        ]
+      },
+      {
+        "id": "535554734",
+        "title": "Introduction and Rondo Capriccioso",
+        "artists": [
+          "Susan Duehlmeyer",
+          "Camille Saint-Saëns",
+          "Bonnie Gritton"
+        ],
+        "album": "The Piano As Orchestra",
+        "duration": 533,
+        "url": "https://music.163.com/song?id=535554734",
+        "aliases": [
+          "圣桑：引子与回旋随想曲"
+        ]
+      },
+      {
+        "id": "22457277",
+        "title": "Zigeunerweisen, Op. 20",
+        "artists": [
+          "Various Artists"
+        ],
+        "album": "50 Best Romantic Classics",
+        "duration": 470,
+        "url": "https://music.163.com/song?id=22457277",
+        "aliases": [
+          "小提琴协奏曲，作品 20 -“流浪者之歌”"
+        ]
+      },
+      {
+        "id": "1990476",
+        "title": "Violin Concerto No.2 In B Minor, Op.7, MS.48:3. Rondo à la clochette, 'La campanella'",
+        "artists": [
+          "Charles Dutoit",
+          "London Philharmonic Orchestra",
+          "Salvatore Accardo"
+        ],
+        "album": "Paganini: Diabolus in Musica",
+        "duration": 542,
+        "url": "https://music.163.com/song?id=1990476",
+        "aliases": [
+          "b小调小提琴协奏曲，作品 7 - 第3乐章“钟”"
+        ]
+      },
+      {
+        "id": "34274307",
+        "title": "维瓦尔第: 四季·春 - 第一乐章 快板",
+        "artists": [
+          "中国交响乐团"
+        ],
+        "album": "名家室内乐专辑2",
+        "duration": 222,
+        "url": "https://music.163.com/song?id=34274307",
+        "aliases": [
+          "Violin Concerto \"Four Season\" No.1 in E major RV.269: I. Spring"
+        ]
+      },
+      {
+        "id": "2663187540",
+        "title": "维瓦尔第《四季》 “夏” 第三乐章 -  III.Presto",
+        "artists": [
+          "天之籁音乐"
+        ],
+        "album": "维瓦尔第《四季》“春”、“夏”、“秋”、“冬”小提琴协奏曲",
+        "duration": 171,
+        "url": "https://music.163.com/song?id=2663187540",
+        "aliases": []
+      },
+      {
+        "id": "1804855175",
+        "title": "圣母颂 (舒伯特)",
+        "artists": [
+          "The Eden Symphony Orchestra"
+        ],
+        "album": "圣诞魔法音乐盒: 摇篮曲之夜",
+        "duration": 395,
+        "url": "https://music.163.com/song?id=1804855175",
+        "aliases": []
+      },
+      {
+        "id": "1302335593",
+        "title": "沉思曲",
+        "artists": [
+          "新雅室内乐"
+        ],
+        "album": "世界古典音乐4",
+        "duration": 321,
+        "url": "https://music.163.com/song?id=1302335593",
+        "aliases": []
+      },
+      {
+        "id": "1602765",
+        "title": "Violin Concerto in D Major, Op. 77:II. Adagio",
+        "artists": [
+          "Jascha Heifetz",
+          "Fritz Reiner",
+          "Chicago Symphony Orchestra"
+        ],
+        "album": "The Heifetz Collection Vol. 11-15 - The Concerto Collection",
+        "duration": 497,
+        "url": "https://music.163.com/song?id=1602765",
+        "aliases": [
+          "D大调小提琴协奏曲，作品 77 - 第2乐章 柔板"
+        ]
+      },
+      {
+        "id": "18357030",
+        "title": "Violin Concerto in D Major, Op.61:II. Larghetto",
+        "artists": [
+          "Itzhak Perlman",
+          "Philharmonia Orchestra",
+          "Carlo Maria Giulini"
+        ],
+        "album": "Beethoven: Violin Concerto in D major, Op. 61",
+        "duration": 564,
+        "url": "https://music.163.com/song?id=18357030",
+        "aliases": [
+          "D大调小提琴协奏曲，作品 61 - 第2乐章 小广板"
+        ]
+      },
+      {
+        "id": "1604782",
+        "title": "Violin Concerto in D, Op. 35:1. Allegro moderato",
+        "artists": [
+          "Jascha Heifetz",
+          "Chicago Symphony Orchestra",
+          "Fritz Reiner"
+        ],
+        "album": "Tchaikovsky: Violin Concerto in D Major, Op. 35",
+        "duration": 951,
+        "url": "https://music.163.com/song?id=1604782",
+        "aliases": [
+          "D大调小提琴协奏曲，作品 35 - 第1乐章 有节制的快板"
+        ]
+      },
+      {
+        "id": "2123602",
+        "title": "Violin Concerto In E Minor, Op.64, MWV O14:1. Allegro molto appassionato",
+        "artists": [
+          "Herbert von Karajan",
+          "Anne-Sophie Mutter",
+          "Berliner Philharmoniker"
+        ],
+        "album": "Mendelssohn / Brahms: Violin Concertos",
+        "duration": 839,
+        "url": "https://music.163.com/song?id=2123602",
+        "aliases": [
+          "e小调第2号小提琴协奏曲，作品 64 - 第1乐章 非常热情的快板"
+        ]
+      },
+      {
+        "id": "26878877",
+        "title": "Suite No.3 in D, BWV 1068:2. Air",
+        "artists": [
+          "Johann Sebastian Bach"
+        ],
+        "album": "Albinoni: Adagio in G minor / Pachelbel: Canon",
+        "duration": 366,
+        "url": "https://music.163.com/song?id=26878877",
+        "aliases": [
+          "G弦上的咏叹调",
+          "D大调第3号管弦乐组曲，BWV1068-第2乐章“G弦上的咏叹调”"
+        ]
+      },
+      {
+        "id": "1394617453",
+        "title": "肖邦: 夜曲",
+        "artists": [
+          "Noble Music Project"
+        ],
+        "album": "午夜琴声: 古典舒眠音乐",
+        "duration": 248,
+        "url": "https://music.163.com/song?id=1394617453",
+        "aliases": []
+      },
+      {
+        "id": "1436101985",
+        "title": "Gymnopedie No.1",
+        "artists": [
+          "Erik Satie"
+        ],
+        "album": "Gymnopedie No.1",
+        "duration": 191,
+        "url": "https://music.163.com/song?id=1436101985",
+        "aliases": [
+          "D大调第1号《裸体舞曲》"
+        ]
+      },
+      {
+        "id": "464731921",
+        "title": "Piano Concerto No. 2 in C Minor, Op. 18:I. Moderato - Allegro",
+        "artists": [
+          "Сергей Рахманинов",
+          "Philadelphia Orchestra",
+          "Leopold Stokowski"
+        ],
+        "album": "RACHMANINOV: Piano Concertos Nos. 2 and 3 (Rachmaninov) (1929, 1940)",
+        "duration": 585,
+        "url": "https://music.163.com/song?id=464731921",
+        "aliases": [
+          "第一乐章：中板－ 快板",
+          "c小调第2号钢琴协奏曲，作品 18 - 第1乐章 中板"
+        ]
+      },
+      {
+        "id": "1420180",
+        "title": "Symphony No. 5:IV. Adagietto (Sehr langsam)",
+        "artists": [
+          "Sir John Barbirolli",
+          "New Philharmonia Orchestra"
+        ],
+        "album": "Mahler: Symphony No. 5",
+        "duration": 592,
+        "url": "https://music.163.com/song?id=1420180",
+        "aliases": [
+          "第5号交响曲:第四乐章.略慢板 (非常缓慢的)"
+        ]
+      },
+      {
+        "id": "1501606",
+        "title": "Cello Suite No. 1 in G Major, BWV 1007:I. Prélude",
+        "artists": [
+          "Janos Starker"
+        ],
+        "album": "Suites for Solo Cello",
+        "duration": 161,
+        "url": "https://music.163.com/song?id=1501606",
+        "aliases": [
+          "G大调第1号大提琴组曲，BWV1007-第1乐章“前奏曲”"
+        ]
+      },
+      {
+        "id": "563990183",
+        "title": "Clair De Lune",
+        "artists": [
+          "Claude Debussy"
+        ],
+        "album": "Classical Best",
+        "duration": 248,
+        "url": "https://music.163.com/song?id=563990183",
+        "aliases": [
+          "降D大调《贝加莫组曲》，作品 75 - 第3首“月光”"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "qq-ost",
+    "platform": "qq",
+    "platformId": "9716001654",
+    "title": "《前奏一响，眼泪就绷不住了》",
+    "description": "“鬼怪、请回答1988、星你……有些歌，前奏就是回忆杀。”",
+    "url": "https://y.qq.com/n/ryqq/playlist/9716001654",
+    "count": 22,
+    "duration": 4915,
+    "verifiedAt": "2026-09-24",
+    "tracks": [
+      {
+        "id": "000hMgJS1ZsqE0",
+        "title": "Breath(숨) (呼吸)",
+        "artists": [
+          "SAM KIM (샘김)"
+        ],
+        "album": "사이코지만 괜찮아 OST Part.2 (虽然是精神病但没关系 OST Part.2)",
+        "duration": 253,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000hMgJS1ZsqE0",
+        "aliases": []
+      },
+      {
+        "id": "004Obe3Z1ov6Cf",
+        "title": "You Are My Everything (Korean Ver.)",
+        "artists": [
+          "GUMMY (거미)"
+        ],
+        "album": "태양의 후예 OST Part.4 (太阳的后裔 OST - Part.4)",
+        "duration": 240,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004Obe3Z1ov6Cf",
+        "aliases": []
+      },
+      {
+        "id": "00080vwK0IyYZC",
+        "title": "Flower",
+        "artists": [
+          "尹美莱 (윤미래)"
+        ],
+        "album": "사랑의 불시착 OST Part 2 (爱的迫降 OST Part 2)",
+        "duration": 252,
+        "url": "https://y.qq.com/n/ryqq/songDetail/00080vwK0IyYZC",
+        "aliases": []
+      },
+      {
+        "id": "002Zepyy0Gay5W",
+        "title": "긴 밤이 오면 (当夜晚来临)",
+        "artists": [
+          "Eddy Kim (에디킴)"
+        ],
+        "album": "당신이 잠든 사이에 OST (当你沉睡时 OST)",
+        "duration": 226,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002Zepyy0Gay5W",
+        "aliases": []
+      },
+      {
+        "id": "000pyFp41t0Z8M",
+        "title": "Reset",
+        "artists": [
+          "Tiger JK",
+          "JINSIL"
+        ],
+        "album": "후아유 - 학교 2015 OST Part 1 (Who Are You - 学校 2015 OST Part 1)",
+        "duration": 242,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000pyFp41t0Z8M",
+        "aliases": []
+      },
+      {
+        "id": "001FoZ6648FRyc",
+        "title": "너를 위해 (为了你)",
+        "artists": [
+          "CHEN (첸)",
+          "伯贤 (백현)",
+          "XIUMIN (시우민)"
+        ],
+        "album": "달의 연인 - 보보경심 려 OST (月之恋人-步步惊心：丽 OST)",
+        "duration": 196,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001FoZ6648FRyc",
+        "aliases": []
+      },
+      {
+        "id": "000Fix800Bmlp5",
+        "title": "최고의 행운 (最佳幸运)",
+        "artists": [
+          "CHEN (첸)"
+        ],
+        "album": "괜찮아 사랑이야 OST - Part.1 (没关系 是爱情啊 OST - Part.1)",
+        "duration": 225,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000Fix800Bmlp5",
+        "aliases": []
+      },
+      {
+        "id": "003dgQt52GhO7E",
+        "title": "Something",
+        "artists": [
+          "George (죠지)",
+          "姜慧仁 (강혜인)"
+        ],
+        "album": "내 아이디는 강남미인 OST Part.4 (我的ID是江南美人 OST Part.4)",
+        "duration": 229,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003dgQt52GhO7E",
+        "aliases": []
+      },
+      {
+        "id": "002c8CLA1Or1f0",
+        "title": "Done For Me",
+        "artists": [
+          "PUNCH (펀치)"
+        ],
+        "album": "호텔 델루나 OST Part.12 (德鲁纳酒店 OST Part.12)",
+        "duration": 231,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002c8CLA1Or1f0",
+        "aliases": []
+      },
+      {
+        "id": "002ZQ5bm14ePQZ",
+        "title": "그대라는 세상 (You are my world)",
+        "artists": [
+          "尹美莱 (윤미래)"
+        ],
+        "album": "푸른 바다의 전설 OST (蓝色大海的传说 OST)",
+        "duration": 217,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002ZQ5bm14ePQZ",
+        "aliases": []
+      },
+      {
+        "id": "002100of3oiMbH",
+        "title": "앞으로 (将来)",
+        "artists": [
+          "빈센트 블루 (Vincent Blue)"
+        ],
+        "album": "역도요정 김복주 OST PART 2 (举重妖精金福珠 OST PART 2)",
+        "duration": 190,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002100of3oiMbH",
+        "aliases": []
+      },
+      {
+        "id": "0004n0u32LOTww",
+        "title": "Never Say Good Bye",
+        "artists": [
+          "Mario & Nesty (마리오&네스티)"
+        ],
+        "album": "마이 걸 (Original Television Soundtrack) (我的女孩 电视剧原声带)",
+        "duration": 238,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0004n0u32LOTww",
+        "aliases": []
+      },
+      {
+        "id": "003zCVaS382RFb",
+        "title": "운명 (命运)",
+        "artists": [
+          "와이 (Why)"
+        ],
+        "album": "풀하우스 OST (KBS 미니시리즈) (浪漫满屋 OST)",
+        "duration": 255,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003zCVaS382RFb",
+        "aliases": []
+      },
+      {
+        "id": "002yQQx40a4chd",
+        "title": "사랑의 언어 (Love Language)",
+        "artists": [
+          "金珉硕 (김민석)"
+        ],
+        "album": "이 사랑 통역 되나요? (Soundtrack from the Netflix Series) (爱情怎么翻译? OST )",
+        "duration": 185,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002yQQx40a4chd",
+        "aliases": []
+      },
+      {
+        "id": "004843sz3FAOKp",
+        "title": "Beautiful",
+        "artists": [
+          "Crush (크러쉬)"
+        ],
+        "album": "쓸쓸하고찬란하神-도깨비 OST (孤单又灿烂的神－鬼怪 OST)",
+        "duration": 227,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004843sz3FAOKp",
+        "aliases": []
+      },
+      {
+        "id": "004Zy2hX0XRE1k",
+        "title": "다시 난, 여기 (Here I Am Again)",
+        "artists": [
+          "白艺潾 (백예린)"
+        ],
+        "album": "사랑의 불시착 OST Part 4 (爱的迫降 OST Part 4)",
+        "duration": 234,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004Zy2hX0XRE1k",
+        "aliases": []
+      },
+      {
+        "id": "003vtHUe4RxVUq",
+        "title": "It's You",
+        "artists": [
+          "HENRY刘宪华"
+        ],
+        "album": "당신이 잠든 사이에 OST (当你沉睡时 OST)",
+        "duration": 231,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003vtHUe4RxVUq",
+        "aliases": []
+      },
+      {
+        "id": "001okkep31NuMW",
+        "title": "걱정말아요 그대 (你不要担心)",
+        "artists": [
+          "李笛 (이적)"
+        ],
+        "album": "응답하라 1988 OST Part 2 (Reply 1988 (Original Television Soundtrack), Pt. 2) (请回答 1988 OST - Part.2)",
+        "duration": 231,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001okkep31NuMW",
+        "aliases": []
+      },
+      {
+        "id": "001gF2Nb3mYm0i",
+        "title": "봄눈 (Spring Snow)",
+        "artists": [
+          "10CM (십센치)"
+        ],
+        "album": "선재 업고 튀어 OST (Lovely Runner (Original Soundtrack)) (背着善宰跑 OST)",
+        "duration": 201,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001gF2Nb3mYm0i",
+        "aliases": []
+      },
+      {
+        "id": "0001A7hu4NvNdR",
+        "title": "Everytime",
+        "artists": [
+          "CHEN (첸)",
+          "PUNCH (펀치)"
+        ],
+        "album": "태양의 후예 OST Part.2 (太阳的后裔Ost Part 2)",
+        "duration": 189,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0001A7hu4NvNdR",
+        "aliases": []
+      },
+      {
+        "id": "001sO1cV3s46y9",
+        "title": "My Destiny (我的命运)",
+        "artists": [
+          "LYn (린)"
+        ],
+        "album": "별에서 온 그대 OST Part.1 (SBS 수목드라마)(My Love From the Star (Original Soundtrack) Part 1) (来自星星的你 OST Part 1)",
+        "duration": 231,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001sO1cV3s46y9",
+        "aliases": []
+      },
+      {
+        "id": "0014XqnQ31OzYK",
+        "title": "Stay With Me",
+        "artists": [
+          "CHANYEOL",
+          "PUNCH (펀치)"
+        ],
+        "album": "쓸쓸하고찬란하神-도깨비 OST (孤单又灿烂的神－鬼怪 OST)",
+        "duration": 192,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0014XqnQ31OzYK",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "qq-kpop",
+    "platform": "qq",
+    "platformId": "9716002709",
+    "title": "Kpop感性|那些让你心动的旋律",
+    "description": "“Kpop不只是刀群舞和洗脑副歌。\n有些歌，前奏一响，情绪就被拉满。\n这是我耳机里的感性时刻。”",
+    "url": "https://y.qq.com/n/ryqq/playlist/9716002709",
+    "count": 58,
+    "duration": 11248,
+    "verifiedAt": "2026-09-24",
+    "tracks": [
+      {
+        "id": "001kCQvi0im99d",
+        "title": "하루에 하루만 더 (Stick With You)",
+        "artists": [
+          "TOMORROW X TOGETHER (투모로우바이투게더)"
+        ],
+        "album": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "duration": 153,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001kCQvi0im99d",
+        "aliases": []
+      },
+      {
+        "id": "002JodFV3wmp0I",
+        "title": "Touch (ft. YEONJUN of TOMORROW X TOGETHER) (Remix)",
+        "artists": [
+          "KATSEYE",
+          "YEONJUN"
+        ],
+        "album": "Touch (ft. YEONJUN of TOMORROW X TOGETHER)",
+        "duration": 129,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002JodFV3wmp0I",
+        "aliases": []
+      },
+      {
+        "id": "0011fWBW3OVPoJ",
+        "title": "I DO ME",
+        "artists": [
+          "KiiiKiii"
+        ],
+        "album": "I DO ME",
+        "duration": 190,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0011fWBW3OVPoJ",
+        "aliases": []
+      },
+      {
+        "id": "002iDZXh0VRLx9",
+        "title": "오늘만 I LOVE YOU (IF I SAY, I LOVE YOU)",
+        "artists": [
+          "BOYNEXTDOOR (보이넥스트도어)"
+        ],
+        "album": "오늘만 I LOVE YOU",
+        "duration": 161,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002iDZXh0VRLx9",
+        "aliases": []
+      },
+      {
+        "id": "003MkCMG1lrO6n",
+        "title": "Sticky",
+        "artists": [
+          "KISS OF LIFE"
+        ],
+        "album": "Sticky",
+        "duration": 157,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003MkCMG1lrO6n",
+        "aliases": []
+      },
+      {
+        "id": "000pFlr11Umbwg",
+        "title": "Psycho",
+        "artists": [
+          "Red Velvet (레드벨벳)"
+        ],
+        "album": "‘The ReVe Festival’ Finale",
+        "duration": 210,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000pFlr11Umbwg",
+        "aliases": []
+      },
+      {
+        "id": "000mFZIr0SC12r",
+        "title": "八音盒 (Life Is Still Going On) (오르골)",
+        "artists": [
+          "NCT DREAM (엔시티 드림)"
+        ],
+        "album": "Hello Future - The 1st Album Repackage",
+        "duration": 218,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000mFZIr0SC12r",
+        "aliases": []
+      },
+      {
+        "id": "002kWWPq03cZNq",
+        "title": "Love Me More",
+        "artists": [
+          "Apink (에이핑크)"
+        ],
+        "album": "RE : LOVE",
+        "duration": 194,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002kWWPq03cZNq",
+        "aliases": []
+      },
+      {
+        "id": "003KvR2q0dNas8",
+        "title": "누난 너무 예뻐 (姐姐真漂亮) (Replay)",
+        "artists": [
+          "SHINee (샤이니)"
+        ],
+        "album": "누난 너무 예뻐(Replay)",
+        "duration": 216,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003KvR2q0dNas8",
+        "aliases": []
+      },
+      {
+        "id": "001H0tks1Eu7PP",
+        "title": "OVERDRIVE",
+        "artists": [
+          "TWS (투어스)"
+        ],
+        "album": "TWS 4th Mini Album 'play hard'",
+        "duration": 160,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001H0tks1Eu7PP",
+        "aliases": []
+      },
+      {
+        "id": "001z4e6G2eXeIX",
+        "title": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+        "artists": [
+          "TOMORROW X TOGETHER (투모로우바이투게더)",
+          "Seori"
+        ],
+        "album": "혼돈의 장: FREEZE (The Chaos Chapter: FREEZE)",
+        "duration": 202,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001z4e6G2eXeIX",
+        "aliases": []
+      },
+      {
+        "id": "000Ky4uo1sAbEr",
+        "title": "Deja Vu",
+        "artists": [
+          "TOMORROW X TOGETHER (투모로우바이투게더)"
+        ],
+        "album": "minisode 3: TOMORROW",
+        "duration": 171,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000Ky4uo1sAbEr",
+        "aliases": []
+      },
+      {
+        "id": "003Do8be0UUbfy",
+        "title": "Love 119",
+        "artists": [
+          "RIIZE (라이즈)"
+        ],
+        "album": "Love 119",
+        "duration": 173,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003Do8be0UUbfy",
+        "aliases": []
+      },
+      {
+        "id": "0006jivg2j3THl",
+        "title": "Perfect Night",
+        "artists": [
+          "LE SSERAFIM (르세라핌)"
+        ],
+        "album": "Perfect Night",
+        "duration": 159,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0006jivg2j3THl",
+        "aliases": []
+      },
+      {
+        "id": "003Sl3JF2IbA7n",
+        "title": "Heavy Serenade",
+        "artists": [
+          "NMIXX (엔믹스)"
+        ],
+        "album": "Heavy Serenade",
+        "duration": 180,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003Sl3JF2IbA7n",
+        "aliases": []
+      },
+      {
+        "id": "000cWZW806oyOW",
+        "title": "XO (Only If You Say Yes)",
+        "artists": [
+          "ENHYPEN (엔하이픈)"
+        ],
+        "album": "ROMANCE : UNTOLD",
+        "duration": 188,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000cWZW806oyOW",
+        "aliases": []
+      },
+      {
+        "id": "003wNAfK0IKST1",
+        "title": "LOVE DIVE",
+        "artists": [
+          "IVE (아이브)"
+        ],
+        "album": "LOVE DIVE",
+        "duration": 177,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003wNAfK0IKST1",
+        "aliases": []
+      },
+      {
+        "id": "002bg2mO2fuH4L",
+        "title": "TOMBOY",
+        "artists": [
+          "i-dle (아이들)"
+        ],
+        "album": "I NEVER DIE",
+        "duration": 174,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002bg2mO2fuH4L",
+        "aliases": []
+      },
+      {
+        "id": "001pQxBw1N2qnM",
+        "title": "Magnetic",
+        "artists": [
+          "ILLIT (아일릿)"
+        ],
+        "album": "SUPER REAL ME",
+        "duration": 160,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001pQxBw1N2qnM",
+        "aliases": []
+      },
+      {
+        "id": "004DCnFt4eC8tz",
+        "title": "FAKE LOVE",
+        "artists": [
+          "BTS (防弹少年团)"
+        ],
+        "album": "LOVE YOURSELF 轉 'Tear'",
+        "duration": 242,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004DCnFt4eC8tz",
+        "aliases": []
+      },
+      {
+        "id": "004XNMZJ4fSRh9",
+        "title": "I Need U",
+        "artists": [
+          "BTS (防弹少年团)"
+        ],
+        "album": "화양연화 pt.1 (花样年华 pt.1)",
+        "duration": 210,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004XNMZJ4fSRh9",
+        "aliases": []
+      },
+      {
+        "id": "003JRWHB0APppx",
+        "title": "Hype Boy",
+        "artists": [
+          "NewJeans (뉴진스)"
+        ],
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "duration": 176,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003JRWHB0APppx",
+        "aliases": []
+      },
+      {
+        "id": "0035pWIl2LO6cf",
+        "title": "Ditto",
+        "artists": [
+          "NewJeans (뉴진스)"
+        ],
+        "album": "NewJeans 'OMG'",
+        "duration": 185,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0035pWIl2LO6cf",
+        "aliases": []
+      },
+      {
+        "id": "000UjWxp0xgBWS",
+        "title": "What is Love?",
+        "artists": [
+          "TWICE (트와이스)"
+        ],
+        "album": "What is Love?",
+        "duration": 208,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000UjWxp0xgBWS",
+        "aliases": []
+      },
+      {
+        "id": "003H6Wrn18Jvwk",
+        "title": "Kill This Love",
+        "artists": [
+          "BLACKPINK (블랙핑크)"
+        ],
+        "album": "KILL THIS LOVE",
+        "duration": 189,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003H6Wrn18Jvwk",
+        "aliases": []
+      },
+      {
+        "id": "001KrvAS1Zjk93",
+        "title": "WHISTLE (口哨)",
+        "artists": [
+          "BLACKPINK (블랙핑크)"
+        ],
+        "album": "SQUARE ONE",
+        "duration": 211,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001KrvAS1Zjk93",
+        "aliases": []
+      },
+      {
+        "id": "004C0xdq38W2ow",
+        "title": "어른 아이 (Kidult)",
+        "artists": [
+          "SEVENTEEN (세븐틴)"
+        ],
+        "album": "SEVENTEEN 7th Mini Album '헹가래' (Heng:garæ)",
+        "duration": 192,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004C0xdq38W2ow",
+        "aliases": []
+      },
+      {
+        "id": "004WsINI1KbUMK",
+        "title": "舞い落ちる花びら (舞落的花瓣)",
+        "artists": [
+          "SEVENTEEN (세븐틴)"
+        ],
+        "album": "舞い落ちる花びら (Fallin' Flower) (飘落的花瓣)",
+        "duration": 210,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004WsINI1KbUMK",
+        "aliases": []
+      },
+      {
+        "id": "004aHChB4IXxNj",
+        "title": "Thirsty",
+        "artists": [
+          "aespa (에스파)"
+        ],
+        "album": "MY WORLD - The 3rd Mini Album",
+        "duration": 193,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004aHChB4IXxNj",
+        "aliases": []
+      },
+      {
+        "id": "004Hk1Nn1k8kCi",
+        "title": "전야 (前夜)",
+        "artists": [
+          "EXO (엑소)"
+        ],
+        "album": "THE WAR – The 4th Album",
+        "duration": 176,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004Hk1Nn1k8kCi",
+        "aliases": []
+      },
+      {
+        "id": "003ugx653jE2Xl",
+        "title": "지나갈 테니 (顺其自然) (Been Through)",
+        "artists": [
+          "EXO (엑소)"
+        ],
+        "album": "Universe - 겨울 스페셜 앨범, 2017",
+        "duration": 218,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003ugx653jE2Xl",
+        "aliases": []
+      },
+      {
+        "id": "002qdLxg2sMxjJ",
+        "title": "첫 눈 (初雪)",
+        "artists": [
+          "EXO (엑소)"
+        ],
+        "album": "Winter Special Album '12月的奇迹 (Miracles In December)' (十二月的奇迹)",
+        "duration": 209,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002qdLxg2sMxjJ",
+        "aliases": []
+      },
+      {
+        "id": "002HuRZ4120Ght",
+        "title": "LOSER (失败者)",
+        "artists": [
+          "BIGBANG (빅뱅)"
+        ],
+        "album": "MADE SERIES 《M》",
+        "duration": 219,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002HuRZ4120Ght",
+        "aliases": []
+      },
+      {
+        "id": "000GDzSZ0yAEB9",
+        "title": "IF YOU",
+        "artists": [
+          "BIGBANG (빅뱅)"
+        ],
+        "album": "MADE SERIES 《D》",
+        "duration": 264,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000GDzSZ0yAEB9",
+        "aliases": []
+      },
+      {
+        "id": "003JOgaA0Thtkl",
+        "title": "아무노래 (Any Song)",
+        "artists": [
+          "ZICO (지코)"
+        ],
+        "album": "아무노래 (Any Song)",
+        "duration": 227,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003JOgaA0Thtkl",
+        "aliases": []
+      },
+      {
+        "id": "003xGsfl2JiQpC",
+        "title": "Guilty",
+        "artists": [
+          "泰民 (태민)"
+        ],
+        "album": "Guilty - The 4th Mini Album",
+        "duration": 190,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003xGsfl2JiQpC",
+        "aliases": []
+      },
+      {
+        "id": "000lgImI2KHe6L",
+        "title": "Seven (feat. Latto) - Explicit Ver.",
+        "artists": [
+          "Jung Kook",
+          "Latto"
+        ],
+        "album": "Seven (feat. Latto) - Explicit Ver.",
+        "duration": 184,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000lgImI2KHe6L",
+        "aliases": []
+      },
+      {
+        "id": "0001sYMf0CyTRt",
+        "title": "몸매 (MOMMAE) (身姿)",
+        "artists": [
+          "朴宰范 (Jay Park)",
+          "Ugly Duck (어글리 덕)"
+        ],
+        "album": "몸매 (MOMMAE) (身姿)",
+        "duration": 204,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0001sYMf0CyTRt",
+        "aliases": []
+      },
+      {
+        "id": "000kQd6i3OD5EI",
+        "title": "Trap (陷阱)",
+        "artists": [
+          "HENRY刘宪华",
+          "圭贤 (규현)",
+          "泰民 (태민)"
+        ],
+        "album": "The 1st Mini Album 'Trap'",
+        "duration": 225,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000kQd6i3OD5EI",
+        "aliases": []
+      },
+      {
+        "id": "0048V3Zf1YM1QI",
+        "title": "I Need A Girl",
+        "artists": [
+          "TAEYANG (太阳)",
+          "G-DRAGON (权志龙)"
+        ],
+        "album": "SOLAR (Deluxe Edition)",
+        "duration": 219,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0048V3Zf1YM1QI",
+        "aliases": []
+      },
+      {
+        "id": "000iW5i43YzPOa",
+        "title": "눈,코,입 (眼，鼻，嘴)",
+        "artists": [
+          "TAEYANG (太阳)"
+        ],
+        "album": "RISE",
+        "duration": 229,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000iW5i43YzPOa",
+        "aliases": []
+      },
+      {
+        "id": "000scVuH3iFzX1",
+        "title": "Gone",
+        "artists": [
+          "ROSÉ (로제)"
+        ],
+        "album": "-R-",
+        "duration": 207,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000scVuH3iFzX1",
+        "aliases": []
+      },
+      {
+        "id": "000zR7cv2QHXks",
+        "title": "APT.",
+        "artists": [
+          "ROSÉ (로제)",
+          "Bruno Mars"
+        ],
+        "album": "APT.",
+        "duration": 169,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000zR7cv2QHXks",
+        "aliases": []
+      },
+      {
+        "id": "000n8irK2x73Ie",
+        "title": "You (=I)",
+        "artists": [
+          "脸红的思春期 (볼빨간사춘기)"
+        ],
+        "album": "Full Album RED PLANET",
+        "duration": 169,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000n8irK2x73Ie",
+        "aliases": []
+      },
+      {
+        "id": "002kbM1O3XAhnk",
+        "title": "SOLO",
+        "artists": [
+          "JENNIE (제니)"
+        ],
+        "album": "SOLO",
+        "duration": 169,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002kbM1O3XAhnk",
+        "aliases": []
+      },
+      {
+        "id": "0007id2P24ErzN",
+        "title": "Weekend",
+        "artists": [
+          "太妍 (태연)"
+        ],
+        "album": "Weekend",
+        "duration": 233,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0007id2P24ErzN",
+        "aliases": []
+      },
+      {
+        "id": "001EumMj2qZytD",
+        "title": "I",
+        "artists": [
+          "太妍 (태연)",
+          "Verbal Jint (버벌진트)"
+        ],
+        "album": "I - The 1st Mini Album",
+        "duration": 207,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001EumMj2qZytD",
+        "aliases": []
+      },
+      {
+        "id": "001CQ92X2ZcIzo",
+        "title": "To. X",
+        "artists": [
+          "太妍 (태연)"
+        ],
+        "album": "To. X - The 5th Mini Album",
+        "duration": 170,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001CQ92X2ZcIzo",
+        "aliases": []
+      },
+      {
+        "id": "001tSEfX4Z2lZ9",
+        "title": "Celebrity",
+        "artists": [
+          "IU (아이유)"
+        ],
+        "album": "Celebrity",
+        "duration": 195,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001tSEfX4Z2lZ9",
+        "aliases": []
+      },
+      {
+        "id": "002LlmSy2xQwV5",
+        "title": "Love wins all",
+        "artists": [
+          "IU (아이유)"
+        ],
+        "album": "Love wins all",
+        "duration": 271,
+        "url": "https://y.qq.com/n/ryqq/songDetail/002LlmSy2xQwV5",
+        "aliases": []
+      },
+      {
+        "id": "001fD3hP4NDPMr",
+        "title": "삐삐 (BBIBBI)",
+        "artists": [
+          "IU (아이유)"
+        ],
+        "album": "삐삐 (BBIBBI)",
+        "duration": 194,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001fD3hP4NDPMr",
+        "aliases": []
+      },
+      {
+        "id": "004NO00B0Oitxj",
+        "title": "봄 사랑 벚꽃 말고 (除了春天爱情和樱花)",
+        "artists": [
+          "HIGH4 (하이포)",
+          "IU (아이유)"
+        ],
+        "album": "봄 사랑 벚꽃 말고 (除了春天爱情和樱花)",
+        "duration": 195,
+        "url": "https://y.qq.com/n/ryqq/songDetail/004NO00B0Oitxj",
+        "aliases": []
+      },
+      {
+        "id": "0008hVbW4I1Z2G",
+        "title": "Golden",
+        "artists": [
+          "HUNTR/X",
+          "EJAE (김은재)",
+          "AUDREY NUNA",
+          "REI AMI"
+        ],
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film) (kpop猎魔女团 电影原声带)",
+        "duration": 194,
+        "url": "https://y.qq.com/n/ryqq/songDetail/0008hVbW4I1Z2G",
+        "aliases": []
+      },
+      {
+        "id": "000pcOWP0MMB3e",
+        "title": "Soda Pop",
+        "artists": [
+          "Saja Boys",
+          "앤드류 최 (Andrew Choi)",
+          "Neckwav",
+          "대니 정 (Danny Jung)"
+        ],
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film) (kpop猎魔女团 电影原声带)",
+        "duration": 150,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000pcOWP0MMB3e",
+        "aliases": []
+      },
+      {
+        "id": "001JrXN03zjjv6",
+        "title": "책방오빠 문학소녀 (Scott and Zelda)",
+        "artists": [
+          "BIBI (비비)"
+        ],
+        "album": "EVE: ROMANCE",
+        "duration": 193,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001JrXN03zjjv6",
+        "aliases": []
+      },
+      {
+        "id": "000b5cIb093QFZ",
+        "title": "미워 (Ego)",
+        "artists": [
+          "Crush (크러쉬)"
+        ],
+        "album": "wonderego",
+        "duration": 174,
+        "url": "https://y.qq.com/n/ryqq/songDetail/000b5cIb093QFZ",
+        "aliases": []
+      },
+      {
+        "id": "001FtZMu2ZjjBK",
+        "title": "Small girl (feat. 도경수(D.O.))",
+        "artists": [
+          "李泳知 (이영지)",
+          "D.O. (都暻秀)"
+        ],
+        "album": "16 Fantasy",
+        "duration": 189,
+        "url": "https://y.qq.com/n/ryqq/songDetail/001FtZMu2ZjjBK",
+        "aliases": []
+      },
+      {
+        "id": "003zivac1ieZ2t",
+        "title": "Only One",
+        "artists": [
+          "BoA"
+        ],
+        "album": "BoA The 7th Album 'Only One'",
+        "duration": 217,
+        "url": "https://y.qq.com/n/ryqq/songDetail/003zivac1ieZ2t",
+        "aliases": []
+      }
+    ]
+  }
+]
